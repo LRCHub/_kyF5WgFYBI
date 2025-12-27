@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Nighthawk feat. たなか",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2025-12-27T16:38:52.387795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nighthawk (feat. たなか)",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/01_Nighthawk_(feat._たなか)_DUSTCELL.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nighthawk feat. たなか",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/02_Nighthawk_feat._たなか_DUSTCELL.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nighthawk feat. Tanaka",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/03_Nighthawk_feat._Tanaka_DUSTCELL.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nighthawk - feat. たなか",
+      "artist": "DUSTCELL, たなか",
+      "has_synced": false,
+      "path": "select/pl_01_Nighthawk_-_feat._たなか_DUSTCELL,_たなか.txt"
+    }
+  ]
+}
